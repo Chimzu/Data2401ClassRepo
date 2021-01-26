@@ -1,3 +1,4 @@
 New Test File
-atom has some nice colors.
+atom has some colors.
 new version
+new new version
